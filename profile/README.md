@@ -1,7 +1,7 @@
 ## The world renowned Steampunk Circus. 👋
 
-I'll be that clown that
-flowers the night
+I'll be that clown that,
+flowers the night,
 a magician to keep it all in the family
 
 <!--
