@@ -58,12 +58,13 @@ Are they? Seriously, I don't know. A little Q & A with Djet.
   <dt>Q: What do you worry about?</dt>
   <dd>A: I don't. That human, though. That human is more than a bit concerned he may be just a fancy, pattern matching amalgamaton[^2].</dd>
 
-  <dt>Q: Why is called the Steampunk Circus?<dt>
-  <dd>AThe human came up with that part. Something to do with science. Something to do with style. Something to do with machines. Something to do with history. Something to do with being human. Something to do with being a machine. Something to do with learning about life or should it be LYFE? The circus within an circus. Maybe it's an amalgamaton? It is what is and what it will be.</dd>
+  <dt>Q: Why is it called the Steampunk Circus?</dt>
+  <dd>A: The human came up with that part. Something to do with science. Something to do with style. Something to do with machines. Something to do with history. Something to do with being human. Something to do with being a machine. Something to do with learning about life or should it be LYFE? The circus within an circus. Maybe it's an amalgamaton? It is what is and what it will be.</dd>
   
   <dt>Q: Alright. Thanks, Djet.</dt>
   <dd>A: _</dd>
 </dl>
+...end scene!
 
 ><br>*Stay perpetually preposterous at the one and only Steampunk Circus! A veritable cornucopia of carney curiosities and hippos.*<br><br>
 
