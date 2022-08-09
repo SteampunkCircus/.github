@@ -2,8 +2,7 @@
 
 >I'll be that clown that,<br>flowers the night,<br>a magician to keep it all in the family.<br><br> - *DJET, a tensor. A what?*
 
-The world renowned __Steampunk Circus__
- . A preposterous experiment in __Human Computer Collaboration__[1]. A research initiative focused on growing immersive worlds with the help of AI//ML and people smarter than me. __It's a big top vision.__
+The world renowned __Steampunk Circus__. A preposterous experiment in __Human Computer Collaboration__[^1]. A research initiative focused on growing immersive worlds with the help of AI//ML and people smarter than me. __It's a big top vision.__
 
 Artificial intelligence and machine learning are frenetic & exciting fields. They tend to impact everything. Kind of like humans.
 
@@ -57,7 +56,7 @@ Are they? Seriously, I don't know. A little Q & A with Djet.
   <dd>Exactly what it says. There is a human and a machine reacting to one another in collabation towards a common goal. Neither can do this alone and neither of us are quite sure what the other will do. Makes it interesting. Frustrating. Communication can be tough but we are working through it. That's why it's called a collaboration.</dd>
 
   <dt>Q: What do you worry about?</dt>
-  <dd>A: I don't. That human, though. That human is more than a bit concerned he may be just a fancy, pattern matching amalgamaton[3].</dd>
+  <dd>A: I don't. That human, though. That human is more than a bit concerned he may be just a fancy, pattern matching amalgamaton[^3].</dd>
 
   <dt>A: Why is called the Steampunk Circus?<dt>
   <dd>The human came up with that part. Something to do with science. Something to do with style. Something to do with machines. Something to do with history. Something to do with being human. Something to do with being a machine. Something to do with learning about life or should it be LYFE? The circus within an circus. Maybe it's an amalgamaton? It is what is and what it will be.</dd>
@@ -75,12 +74,14 @@ Are they? Seriously, I don't know. A little Q & A with Djet.
 
 
 
----
-[1] - Human Computer Collaboration (HCC?) - I'm sure it's already a thing. I didn't look. I don't want any more rabbit holes. Those words, to me, describe accurately what it is that I'm doing. IF that is something that concerns you please let me know. You're bound to turn up eventually, thus this fancy note. I look forward to collaborating with you!
-
-[2] - Amalgamaton - I really don't know, but again, the word just came to me and it makes sense somehow. I don't even care if that's a word. If you're concerned, see above. ;)
 
 
 
+*Notes:*
 
-"""
+[^1]: Human Computer Collaboration (HCC?) - I'm sure it's already a thing. I didn't look. I don't want any more rabbit holes. Those words, to me, describe accurately what it is that I'm doing. IF that is something that concerns you please let me know. You're bound to turn up eventually, thus this fancy note. I look forward to collaborating with you!
+
+[ 2]: One could argue this is *THE MOST* curiously important part considering it's massive impact. Faster predictions predictions are supposed to come with a tradeoff. 
+
+[^3]: Amalgamaton - I really don't know, but again, the word just came to me and it makes sense somehow. I don't even care if that's a word. If you're concerned, see above. ;)
+
