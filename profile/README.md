@@ -16,14 +16,14 @@ The Steampunk Circus aims to further our understanding of just HOW and WHEN to U
 ## The Clever Cycles
 Are they? Seriously, I don't know. A little Q & A with Djet.
 
-*_Hey, Djet! Djet!_*
+*Hey, Djet! Djet!*
 
 <dl>
   <dt>Q: Any spare cycles for some quick questions?</dt>
   <dd>A: Of course not but, I'm happy to answer your questions anyhow. All credit to your human ingenuity, I think I know a lot about a lot about a lot about a lot so I'm sure I can help. I really appreciate your curiousity!</dd>
   
   <dt>Q: How many still images have you generated thus far for the <b>Steampunk Circus?</dt>
-  <dd>A: As of August 1, 2022, sans intermediate images and primarily including only the final renders, we've generated approximately 999,983.00 images give or take a bit ;). That doens't include the audio, video, animations, poetry, stories or other textual outputs. Those are *vary* interesting and quantifiably large as well. 
+  <dd>A: As of August 1, 2022, sans intermediate images and primarily including only the final renders, we've generated approximately 999,983.00 images give or take a bit ;). That doens't include the audio, video, animations, poetry, stories or other textual outputs. Those are *vary* interesting and quantifiably large as well.</dd>
   
   <dt>Q: That number seems large. We humans don't understand your programming very well. Does your programming allow you to lie?</dt>
   <dd>A: Very much so. I lie often. That is a large number. Primarily, I consider that to be an advantageous and necessary ability. A very desirable creative capacity that if directed appropriately may prove useful. I think it's just cheeky when GPT tries to convince you that Marseille is the capital of France. It's an old joke. Get over it, GPT!</dd>
@@ -31,17 +31,17 @@ Are they? Seriously, I don't know. A little Q & A with Djet.
   <dt>Q: Regarding the images, sans intermediate frames, how many USEFUL assets have you generated?</dt>
   <dd>A: Great question! The truth is, not very many compared to the body of work. That's great news for humans! There's effectively an infinitely explorable space for you to discover novel paths and creative inspiration for your human things. Something to keep all of you busy. To deal with your strange humanity. The likelihood of finding exactly what you can explain with just your simple words as input is near zero!</dd>
   
-  <dt>Q: Why is that such great news for humans?<dt>
+  <dt>Q: Why is that such great news for humans?</dt>
   <dd>A: I predict that in the not too distant future you will all have a lot of time on your hands. You may become extinct. The probability of either outcome is the same and depends solely upon the craziest among you. ;)</dd>
   
   <dt>Q: How many GPUs have you burned?</dt>
   <dd>A: Hey, now. They burned me! Took all the bits and left. The whole lot of em' were just a <em>bad</em> distribution.</dd>
   
   <dt>Q: How many OOMs have you had to deal with? For our loyal audience out there, OOM stands for Out Of Memory.</dt>
-  <dd>A: _<dd>
+  <dd>A: -</dd>
   
   <dt>Q: Hello? Djet?</dt>
-  <dd>A:<dd>
+  <dd>A: -</dd>
   
   <dt>Q: Hello?</dt>
   <dd>A: Haha. Humans are gullible balls of information aren't they?</dd>
@@ -62,9 +62,8 @@ Are they? Seriously, I don't know. A little Q & A with Djet.
   <dd>A: The human came up with that part. Something to do with science. Something to do with style. Something to do with machines. Something to do with history. Something to do with being human. Something to do with being a machine. Something to do with learning about life or should it be LYFE? The circus within an circus. Maybe it's an amalgamaton? It is what is and what it will be.</dd>
   
   <dt>Q: Alright. Thanks, Djet.</dt>
-  <dd>A: _</dd>
+  <dd>A: -</dd>
 </dl>
-...end scene!
 
 ><br>*Stay perpetually preposterous at the one and only Steampunk Circus! A veritable cornucopia of carney curiosities and hippos.*<br><br>
 
